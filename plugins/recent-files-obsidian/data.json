@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "9 结构体",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/9 结构体.md"
+    },
+    {
+      "basename": "8 元组",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/8 元组.md"
+    },
+    {
+      "basename": "7 字符串与切片",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/7 字符串与切片.md"
+    },
+    {
+      "basename": "6 Rust 引用与借用",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/6 Rust 引用与借用.md"
+    },
+    {
+      "basename": "VIM编译安装",
+      "path": "Note/系统/Linux/VIM编译安装.md"
+    },
+    {
+      "basename": "软件",
+      "path": "Note/工具/软件.md"
+    },
+    {
+      "basename": "Linux配置文件",
+      "path": "Note/系统/Linux/Linux配置文件.md"
+    },
+    {
+      "basename": "Cache使用技能",
+      "path": "Note/AISHU/APP/Cache/Cache使用技能.md"
+    },
+    {
+      "basename": "集群调度逻辑位置",
+      "path": "Note/AISHU/APP/Cache/集群调度逻辑位置.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "Note/系统/Linux/Linux常用命令.md"
+    },
+    {
+      "basename": "AB控制台数据库默认密码",
+      "path": "Note/AISHU/未分类/AB控制台数据库默认密码.md"
+    },
+    {
+      "basename": "V8存储资源使用",
+      "path": "Note/AISHU/未分类/V8存储资源使用.md"
+    },
+    {
+      "basename": "Kingwow备份恢复笔记",
+      "path": "Note/AISHU/APP/Kingwow/Kingwow备份恢复/Kingwow备份恢复笔记.md"
+    },
+    {
+      "basename": "Kingwow脚本参数统计",
+      "path": "Note/AISHU/APP/Kingwow/Kingwow备份恢复/Kingwow脚本参数统计.md"
+    },
+    {
+      "basename": "Kingwow备份恢复脚本解读",
+      "path": "Note/AISHU/APP/Kingwow/Kingwow备份恢复/Kingwow备份恢复脚本解读.md"
+    },
+    {
+      "basename": "编译安装git",
+      "path": "Note/工具/git/编译安装git.md"
+    },
+    {
+      "basename": "KinGgwow物理备份恢复文档",
+      "path": "Note/AISHU/APP/Kingwow/Kingwow备份恢复/KinGgwow物理备份恢复文档.md"
+    },
+    {
+      "basename": "客户端适配改造",
+      "path": "Note/AISHU/未分类/客户端适配改造.md"
+    },
+    {
+      "basename": "AISHU IP",
+      "path": "Note/AISHU/未分类/AISHU IP.md"
+    },
+    {
+      "basename": "虚拟机yum下载加速",
+      "path": "Note/AISHU/配置/虚拟机yum下载加速.md"
+    },
+    {
+      "basename": "Kingwow逻辑备份恢复",
+      "path": "Note/AISHU/APP/Kingwow/Kingwow备份恢复/Kingwow逻辑备份恢复.md"
+    },
+    {
+      "basename": "Kingwow资料",
+      "path": "Note/AISHU/APP/Kingwow/Kingwow资料.md"
+    },
+    {
+      "basename": "神通错误码整理",
+      "path": "Note/AISHU/APP/神通/神通错误码整理.md"
+    },
+    {
+      "basename": "AISHU错误码上传归档",
+      "path": "Note/AISHU/未分类/AISHU错误码上传归档.md"
+    },
+    {
+      "basename": "Linux bash交换模式切换",
+      "path": "Note/系统/Linux/Linux bash交换模式切换.md"
+    },
+    {
+      "basename": "解决MySQL WorkBench SSL连接问题",
+      "path": "Note/AISHU/踩坑/解决MySQL WorkBench SSL连接问题.md"
+    },
+    {
+      "basename": "Windows共享目录挂载到Linux",
+      "path": "Note/系统/Linux/Windows共享目录挂载到Linux.md"
+    },
+    {
+      "basename": "神通性能测试1",
+      "path": "Note/AISHU/APP/神通/zattr/神通性能测试1.md"
+    },
+    {
+      "basename": "Cache记录",
+      "path": "Note/AISHU/APP/Cache/Cache记录.md"
+    },
+    {
+      "basename": "神通常用操作",
+      "path": "Note/AISHU/APP/神通/神通常用操作.md"
+    },
+    {
+      "basename": "git常用操作",
+      "path": "Note/工具/git/git常用操作.md"
+    },
+    {
+      "basename": "Cache接口文档",
+      "path": "Note/AISHU/APP/Cache/Cache接口文档.md"
+    },
+    {
+      "basename": "Cache待办",
+      "path": "Note/AISHU/APP/Cache/Cache待办.md"
+    },
+    {
+      "basename": "神通性能测试",
+      "path": "Note/AISHU/APP/神通/神通性能测试.md"
+    },
+    {
+      "basename": "Rust笔记目录",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记目录.md"
+    },
+    {
+      "basename": "5 Rust所有权",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/5 Rust所有权.md"
+    },
+    {
+      "basename": "Rust Practice",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust Practice.md"
+    },
+    {
+      "basename": "4 Rust函数",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/4 Rust函数.md"
+    },
+    {
+      "basename": "1 Cargo&基础",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/1 Cargo&基础.md"
+    },
+    {
+      "basename": "3 Rust语句与表达式",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/3 Rust语句与表达式.md"
+    },
+    {
+      "basename": "2 Rust类型",
+      "path": "Note/学习/编程语言/Rust/Rust语言圣经/Rust笔记/2 Rust类型.md"
+    },
+    {
+      "basename": "6.0配装",
+      "path": "Note/游戏/FF14/6.0配装.md"
+    },
+    {
+      "basename": "6.0卫月",
+      "path": "Note/游戏/FF14/6.0卫月.md"
+    },
+    {
+      "basename": "DataView教程",
+      "path": "Note/工具/Obsidian/DataView教程.md"
+    },
+    {
+      "basename": "Rust学习",
+      "path": "Note/学习/编程语言/Rust/Rust学习.md"
+    },
+    {
+      "basename": "v2ray",
+      "path": "Note/工具/v2ray/v2ray.md"
+    },
+    {
+      "basename": "Win10安装 scoop",
+      "path": "Note/工具/Win10安装 scoop.md"
+    },
+    {
+      "basename": "系统设计",
+      "path": "Note/学习/编程语言/系统设计.md"
+    },
+    {
+      "basename": "Rust入门",
+      "path": "Note/学习/编程语言/Rust/Rust入门.md"
+    },
+    {
+      "basename": "cargo crates下载加速",
+      "path": "Note/学习/编程语言/Rust/cargo crates下载加速.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

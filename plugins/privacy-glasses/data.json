@@ -1,0 +1,7 @@
+{
+  "privacyGlasses": false,
+  "blurLevel": 1.5,
+  "editBlurMethod": "blurEdit",
+  "previewBlurMethod": "blurPreview",
+  "uiBlurMethod": "blurUI"
+}

@@ -1,0 +1,10 @@
+{
+  "translucency": false,
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "baseFontSize": 17,
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}

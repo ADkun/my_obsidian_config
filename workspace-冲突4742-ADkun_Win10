@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "9647dbb0d3ed2079",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1e9d910bef44ce",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42723e976b3d9826",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df418b23102a6f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26447ba6d29f0782",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a43a80ab3a652c7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ca8212ea85f0b78",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fe177d52522e004",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95fc876919037290",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f798c50ed34f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74112c44430a4736",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6275c918b71da244",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16a444f526e48677",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bfacb996a2a893e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "87de92014d37bd4e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "active": "6b1e9d910bef44ce",
+  "lastOpenFiles": [
+    "未命名 1.md",
+    "Note/AISHU/工作总结/工作总结汇总.md",
+    "Note/AISHU/工作总结/周报/abc.md",
+    "Note/AISHU/ABV8取包安装.md",
+    "Note/AISHU/踩坑/sub/调试问题.md",
+    "Note/AISHU/踩坑/踩坑.md",
+    "Note/速查.md",
+    "Note/AISHU/AB控制台数据库默认密码.md",
+    "Note/AISHU/ABV8控制台初始配置.md",
+    "Note/AISHU/虚拟桌面环境配置.md"
+  ]
+}

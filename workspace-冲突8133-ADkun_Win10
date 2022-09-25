@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "9647dbb0d3ed2079",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d370ea6b69b35c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/工具/软件.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fbc3975b7210815c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/AISHU/未分类/AB控制台安装.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ab7301ae35ee3fc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/AISHU/APP/Cache/Cache待办.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "334baf97a82d069f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/系统/Linux/Linux常用命令.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "08638e3bcd4b585b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/系统/Linux/Linux配置文件.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1eaff59387a03707",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note/AISHU/未分类/AISHU IP.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42723e976b3d9826",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df418b23102a6f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26447ba6d29f0782",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "元数据",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a43a80ab3a652c7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ca8212ea85f0b78",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fe177d52522e004",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "95fc876919037290",
+    "type": "split",
+    "children": [
+      {
+        "id": "18f798c50ed34f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74112c44430a4736",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note/工具/软件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6275c918b71da244",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note/工具/软件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16a444f526e48677",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bfacb996a2a893e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note/工具/软件.md"
+              }
+            }
+          },
+          {
+            "id": "87de92014d37bd4e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "active": "5fe177d52522e004",
+  "lastOpenFiles": [
+    "Note/系统/Windows/字体.md",
+    "Note/AISHU/APP/Cache/Cache修改.md",
+    "Note/AISHU/APP/Cache/Cache待办.md",
+    "Note/AISHU/未分类/AB控制台安装.md",
+    "Note/系统/Linux/Linux配置文件.md",
+    "Note/系统/Linux/Linux常用命令.md",
+    "Note/AISHU/未分类/AISHU IP.md",
+    "Note/AISHU/配置/配置pip国内安装源.md",
+    "Note/AISHU/未分类/外部记录.md",
+    "Note/AISHU/未分类/V8承诺计划.md"
+  ]
+}

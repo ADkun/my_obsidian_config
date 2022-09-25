@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasC",
+      "FabEvernote",
+      "FabCuttlefish",
+      "FabPython",
+      "FabWindows"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Excalidraw": "RiPaintFill",
+  "Note": "FasBook",
+  "Note/学习": "FasBookOpenReader",
+  "Note/AISHU": "FabAdn",
+  "Note/FF14": "IbGames",
+  "Note/工具": "FasToolbox",
+  "Note/系统": "RiWindowLine",
+  "Note/系统/Linux": "FabLinux",
+  "Note/系统/Windows": "FabWindows",
+  "Note/学习/Python": "FabPython",
+  "Template": "FabCuttlefish",
+  "Note/学习/C++": "FasC",
+  "zattr": "FabCreativeCommonsShare"
+}
